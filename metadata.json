@@ -1,0 +1,6 @@
+{
+  "name": "Verdant Ashes: Forest Survival",
+  "description": "An open-world post-apocalyptic forest survival game. Scavenge ruined outposts, craft tools and shelters, fight mutated beasts, and survive radiation, cold, and famine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
